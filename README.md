@@ -4,7 +4,7 @@
 
 This project is regarding creation of ReadMe File in a professional way. It supports in learning NodeJs and JavaScript. It also involves working with repository. 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
